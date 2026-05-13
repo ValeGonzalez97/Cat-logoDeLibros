@@ -1,43 +1,50 @@
-## Cat-logoDeLibros - BookTrack - Tu espacio personal para leer, recordar y compartir
+# Welcome to your Expo app 👋
 
-BookTrack es una aplicación móvil desarrollada con React Native, Expo y Supabase pensada para personas que disfrutan leer y quieren llevar un registro organizado de sus lecturas.
-La aplicación permite guardar libros leídos, libros en proceso y futuras lecturas, además de escribir reseñas personales y compartir opiniones con otros usuarios. Toda la información se almacena en la nube, permitiendo acceder al contenido desde cualquier dispositivo de manera segura.
-Uno de los objetivos principales de BookTrack es transformar la experiencia de lectura en algo más dinámico y personal, ofreciendo un espacio donde cada usuario pueda registrar su progreso, expresar lo que piensa sobre un libro y descubrir qué reseñas generan mayor interés dentro de la comunidad.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Funcionalidades principales: 
+## Get started
 
- Inicio de sesión con Google
+1. Install dependencies
 
- Almacenamiento en la nube con Supabase
+   ```bash
+   npm install
+   ```
 
- Registro de libros personales
+2. Start the app
 
- Edición y actualización de lecturas
+   ```bash
+   npx expo start
+   ```
 
- Sistema de calificaciones y reseñas
+In the output, you'll find options to open the app in a
 
- Seguimiento del progreso de lectura
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
- Búsqueda de libros por título, autor o género
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
- Compartir reseñas y recomendaciones de lectura
+## Get a fresh project
 
- Visualización de cantidad de lecturas de cada reseña
- 
- Interfaz móvil simple, clara y fácil de usar
+When you're ready, run:
 
+```bash
+npm run reset-project
+```
 
- # Objetivo del proyecto
-El propósito de la aplicación es brindar una herramienta práctica para lectores que desean organizar sus libros y compartir sus experiencias de lectura de una manera sencilla y accesible.
- 
- Tecnologías utilizadas:
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-React Native
-Expo
-Supabase
-PostgreSQL
-TypeScript
-GitHub
+## Learn more
 
+To learn more about developing your project with Expo, look at the following resources:
 
-Visual Studio Code
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
