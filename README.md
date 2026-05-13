@@ -1,4 +1,4 @@
-## BookTrack - Tu espacio personal para leer, recordar y compartir
+# BookTrack - Tu espacio personal para leer, recordar y compartir
 
 BookTrack es una aplicación móvil desarrollada con React Native, Expo y Supabase pensada para personas que disfrutan leer y quieren llevar un registro organizado de sus lecturas.
 
@@ -6,7 +6,7 @@ La aplicación permite guardar libros leídos, libros en proceso y futuras lectu
 
 Uno de los objetivos principales de BookTrack es transformar la experiencia de lectura en algo más dinámico y personal, ofreciendo un espacio donde cada usuario pueda registrar su progreso, expresar lo que piensa sobre un libro y descubrir qué reseñas generan mayor interés dentro de la comunidad.
 
- # Funcionalidades principales:
+ ## Funcionalidades principales:
  
 Inicio de sesión con Google
 Almacenamiento en la nube con Supabase
