@@ -1,46 +1,36 @@
-# Welcome to your Expo app 👋
+## BookTrack - Tu espacio personal para leer, recordar y compartir
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+BookTrack es una aplicación móvil desarrollada con React Native, Expo y Supabase pensada para personas que disfrutan leer y quieren llevar un registro organizado de sus lecturas.
 
-## Get started
+La aplicación permite guardar libros leídos, libros en proceso y futuras lecturas, además de escribir reseñas personales y compartir opiniones con otros usuarios. Toda la información se almacena en la nube, permitiendo acceder al contenido desde cualquier dispositivo de manera segura.
 
-1. Install dependencies
+Uno de los objetivos principales de BookTrack es transformar la experiencia de lectura en algo más dinámico y personal, ofreciendo un espacio donde cada usuario pueda registrar su progreso, expresar lo que piensa sobre un libro y descubrir qué reseñas generan mayor interés dentro de la comunidad.
 
-   ```bash
-   npm install
-   ```
+ # Funcionalidades principales:
+ 
+Inicio de sesión con Google
+Almacenamiento en la nube con Supabase
+Registro de libros personales
+Edición y actualización de lecturas
+Sistema de calificaciones y reseñas
+Seguimiento del progreso de lectura
+Búsqueda de libros por título, autor o género
+Compartir reseñas y recomendaciones de lectura
+Visualización de cantidad de lecturas de cada reseña
+Interfaz móvil simple, clara y fácil de usar
 
-2. Start the app
+## Objetivo del proyecto
 
-   ```bash
-   npx expo start
-   ```
+El propósito de la aplicación es brindar una herramienta práctica para lectores que desean organizar sus libros y compartir sus experiencias de lectura de una manera sencilla y accesible.
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+ Tecnologías utilizadas:
+React Native
+Expo
+Supabase
+PostgreSQL
+TypeScript
+GitHub
+Visual Studio Code
 
 ## Join the community
 
